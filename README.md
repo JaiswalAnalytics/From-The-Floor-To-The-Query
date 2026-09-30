@@ -58,7 +58,7 @@ SQL · Power BI (DAX, star schema) · Python (Pandas, NumPy) · Databricks · Sn
 Recent work: insurance analytics across 5 industries and 1.2M+ policy records (AtliQ Technologies), and SaaS unit economics
 and churn analysis that identified a Rs 35.6L monthly deficit (Digits n Data).
 
-**LinkedIn:** [add your profile link here]
+**LinkedIn:** www.linkedin.com/in/iam-shubhamjaiswal
 
 ## License
 
