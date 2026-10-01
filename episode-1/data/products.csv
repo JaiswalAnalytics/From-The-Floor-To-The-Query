@@ -1,0 +1,51 @@
+sku,product_name,category,cost_price,stock_qty
+SKU001,OPC 53 Grade 50kg,Cement & Putty,315,48
+SKU002,PPC 50kg,Cement & Putty,345,130
+SKU003,White Cement 5kg,Cement & Putty,210,21
+SKU004,Wall Putty 20kg,Cement & Putty,520,32
+SKU005,Block Jointing Mortar 25kg,Cement & Putty,260,53
+SKU006,Waterproofing Compound 5kg,Cement & Putty,480,63
+SKU007,TMT 8mm Bundle,Steel,3975,24
+SKU008,TMT 10mm Bundle,Steel,9000,35
+SKU009,TMT 12mm Bundle,Steel,2690,82
+SKU010,TMT 16mm Bundle,Steel,3600,76
+SKU011,Binding Wire 25kg,Steel,1850,48
+SKU012,MS Angle 25mm,Steel,720,180
+SKU013,Vitrified 2x2 White,Tiles,1120,40
+SKU014,Vitrified 2x2 Beige,Tiles,770,31
+SKU015,Floor Tile 1x1 Matt,Tiles,380,149
+SKU016,Wall Tile 1x2 Glossy,Tiles,1085,40
+SKU017,Parking Tile 1x1,Tiles,380,140
+SKU018,Vitrified 2x4 Marble,Tiles,950,90
+SKU019,Bathroom Tile 1x1.5,Tiles,1045,68
+SKU020,Border Tile Gold,Tiles,620,60
+SKU021,Tile Adhesive 20kg,Adhesive & Grout,560,22
+SKU022,Tile Adhesive 5kg,Adhesive & Grout,185,98
+SKU023,Epoxy Grout 1kg,Adhesive & Grout,640,36
+SKU024,Grout Powder 1kg,Adhesive & Grout,60,143
+SKU025,Tile Spacer Pack,Adhesive & Grout,45,69
+SKU026,Exterior Emulsion 20L,Paint,3900,48
+SKU027,Interior Emulsion 10L,Paint,2600,144
+SKU028,Primer White 20L,Paint,2400,120
+SKU029,Enamel Black 1L,Paint,400,44
+SKU030,Enamel Red 1L,Paint,420,45
+SKU031,Distemper 20kg,Paint,1350,30
+SKU032,Wood Polish 1L,Paint,380,35
+SKU033,Texture Paint 20kg,Paint,1900,25
+SKU034,CPVC Pipe 1in,Plumbing,190,61
+SKU035,PVC Pipe 4in,Plumbing,520,57
+SKU036,GI Elbow 1in,Plumbing,35,111
+SKU037,Ball Valve 1/2in,Plumbing,140,107
+SKU038,Water Tank 1000L,Plumbing,5800,7
+SKU039,Solvent Cement 500ml,Plumbing,110,150
+SKU040,Wire 1.5mm Coil,Electrical,1300,34
+SKU041,Wire 2.5mm Coil,Electrical,2100,48
+SKU042,MCB 16A,Electrical,185,58
+SKU043,Switch Plate 6M,Electrical,160,47
+SKU044,LED Panel 15W,Electrical,240,66
+SKU045,Wash Basin White,Sanitary,2440,147
+SKU046,Western Toilet Seat,Sanitary,1570,67
+SKU047,Health Faucet,Sanitary,480,40
+SKU048,Bathroom Mirror,Sanitary,1450,22
+SKU049,Door Lock Set,Hardware,650,136
+SKU050,Hinge 4in,Hardware,55,35
