@@ -1,3 +1,5 @@
+https://github.com/JaiswalAnalytics/from-the-floor-to-the-query
+
 # Episode 1: Dead Stock
 
 ![Episode 1 cover](cover.png)
