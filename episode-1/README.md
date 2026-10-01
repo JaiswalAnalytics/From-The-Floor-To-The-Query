@@ -1,4 +1,4 @@
-https://github.com/JaiswalAnalytics/from-the-floor-to-the-query
+[← Back to all episodes](../README.md)
 
 # Episode 1: Dead Stock
 
